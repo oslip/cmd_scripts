@@ -1,0 +1,2 @@
+rem miroring via cmd
+robocopy <source> <distination> /mir
