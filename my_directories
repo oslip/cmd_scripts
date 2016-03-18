@@ -1,2 +1,4 @@
 rem miroring via cmd with empty directories
 robocopy <source> <distination> /mir /E
+
+else, than, if. for
