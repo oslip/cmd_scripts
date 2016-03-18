@@ -1,0 +1,7 @@
+ECHO - Displays text on the screen
+@ECHO OFF - Hides the text that is normally output
+START - Run a file with it's default application
+REM - Inserts a comment line in the program
+MKDIR/RMDIR - Create and remove directories
+DEL - Deletes a file or files
+COPY - Copy a file or files
