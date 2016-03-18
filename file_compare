@@ -1,3 +1,2 @@
 rem file compare example
 fc /l "C:\example1.doc" "C:\example2.doc"
-if (a>b)
