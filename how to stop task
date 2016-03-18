@@ -1,0 +1,5 @@
+rem The “tasklist” command can be used to provide a current list of all tasks running on your PC
+tasklist
+rem Tasks that appear in the “tasklist” command will have an executable and process ID
+taslkill -pid
+taskkill -im
